@@ -8,3 +8,6 @@ Bag-of-words, TF-IDF, Cosine Similarity, and Jarcard Similarity will be used to 
 sentiments.
 
 The sentiment-based factor will be evaluated using alphalens to decide the effectiveness of this factor
+
+## Credit
+This is project 5 from Udacity's AI for Trading Course
